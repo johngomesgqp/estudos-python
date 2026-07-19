@@ -14,15 +14,15 @@ O objetivo é registrar minha evolução enquanto aplico boas práticas de desen
 
 ## Roadmap
 
-- [ ] **Variáveis**
+- [x] **Variáveis**
 
     - **O que são?** Espaços na memória do computador usados para armazenar dados temporariamente.
     - **Por que usar?** Para rotular, salvar e reutilizar informações através de nomes claros.
     - [anotacoes_variaveis.py](./01_variaveis/anotacoes_variaveis.py) - Regras de nomeação (PEP 8) e conceitos de atribuição.
 
-    - [ ] [ex01_troca_de_valores.py](./01_variaveis/ex01_troca_de_valores.py) - Desafio prático de lógica para inverter valores de duas variáveis.
+    - [x] [ex01_troca_de_valores.py](./01_variaveis/ex01_troca_de_valores.py) - Desafio prático de lógica para inverter valores de duas variáveis.
 
-    - [ ] [ex02_corretor_codigo.py](./01_variaveis/ex02_corretor_codigo.py) - Desafio prático para corrigir códigos que quebram a PEP 8.
+    - [x] [ex02_corretor_codigo.py](./01_variaveis/ex02_corretor_codigo.py) - Desafio prático para corrigir códigos que quebram a PEP 8.
 
 - [ ] **Tipos primitivos**
     
@@ -47,7 +47,7 @@ O objetivo é registrar minha evolução enquanto aplico boas práticas de desen
 
     - **Por que usar?** Para armazenar e manipular as informações mais simples e fundamentais em qualquer programa.
 
-    - [anotacoes_aula4.py](./operadores_aritmeticos/anotacoes_aula4.py) - Códigos explicativos sobre operadores matemáticos -  Adição (`+`), Subtração ( `-`), Multiplicação (`*`), Divisão (`/`), Divisão Inteira (`//`) e Potenciação (`**`).
+    - [anotacoes_operadores_aritmeticos.py](./03_operadores_aritmeticos/anotacoes_operadores_aritmeticos.py) - Códigos explicativos sobre operadores matemáticos -  Adição (`+`), Subtração ( `-`), Multiplicação (`*`), Divisão (`/`), Divisão Inteira (`//`), Módulo/Resto da Divisão (`%`) e  Potenciação (`**`).
 
 - [ ] Condicionais
 - [ ] Laços
