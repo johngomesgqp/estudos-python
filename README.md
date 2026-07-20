@@ -49,6 +49,17 @@ O objetivo é registrar minha evolução enquanto aplico boas práticas de desen
 
     - [anotacoes_operadores_aritmeticos.py](./03_operadores_aritmeticos/anotacoes_operadores_aritmeticos.py) - Códigos explicativos sobre operadores matemáticos -  Adição (`+`), Subtração ( `-`), Multiplicação (`*`), Divisão (`/`), Divisão Inteira (`//`), Módulo/Resto da Divisão (`%`) e  Potenciação (`**`).
 
+     - [x] [ex01_sucessor_antecessor.py](./03_operadores_aritmeticos/ex01_sucessor_antecessor.py) - Desafio prático para calcular sucessor e antecessor aplicando Adição (`+`), Subtração ( `-`).
+
+    - [x] [ex02_dobro_triplo_raiz.py](./03_operadores_aritmeticos/ex02_dobro_triplo_raiz.py) - Desafio prático para mostrar o dobro, triplo e a raiz quadrada aplicando Multiplicação (`*`) e Potência (`**`).
+
+    - [x] [ex03_media_notas.py](./03_operadores_aritmeticos/ex03_media_notas.py) - Desafio prático para mostar a média de notas de aluno aplicando Adição (`+`), Divisão (`/`).
+
+    - [x]  [ex04_calculo_media.py](./03_operadores_aritmeticos/ex04_calculo_media.py) - Desafio prático trabalhando com decimais (`float`).
+
+    - [ex05_verificador_maioridade.py](./03_operadores_aritmeticos/ex05_verificador_maioridade.py) - Desafio prático aplicando valores lógicos (`bool`).
+
+
 - [ ] Condicionais
 - [ ] Laços
 - [ ] Tipos de Dados
