@@ -68,7 +68,7 @@ O objetivo é registrar minha evolução enquanto aplico boas práticas de desen
 
     - **Por que usar?** Para evitar repetição de código, modularizar o sistema e facilitar a manutenção.
 
-    - [ ] [ex01_simulador_rendimento.py](./07_funcoes/ex01_simulador_rendimento.py) - Desafio prático simular o rendimento mensal de investimentos usando laços de repetição, juros compostos e aplicação de bônus anual via condicionais.
+    - [ ] [ex01_simulador_rendimento.py](./funcoes/ex01_simulador_rendimento.py) - Desafio prático simular o rendimento mensal de investimentos usando laços de repetição, juros compostos e aplicação de bônus anual via condicionais.
 - [ ] POO
 - [ ] Arquivos
 - [ ] APIs
