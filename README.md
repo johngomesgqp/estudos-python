@@ -34,15 +34,15 @@ O objetivo é registrar minha evolução enquanto aplico boas práticas de desen
 
     - [x] [ex02_analisador_input.py](./02_tipos_primitivos/ex02_analisador_input.py) - Desafio prático usando  métodos `.is()`.
 
-    - [ex03_cadastro_simples.py](./02_tipos_primitivos/ex03_cadastro_simples.py) - Desafio prático usando textos (`str`), números inteiros (`int`), números reais(`float`) evalores lógicos (`bool`).
+   - [x] [ex03_cadastro_simples.py](./02_tipos_primitivos/ex03_cadastro_simples.py) - Desafio prático usando textos (`str`), números inteiros (`int`), números reais(`float`) e valores lógicos (`bool`).
 
-    - [ex04_calculo_media.py](./02_tipos_primitivos/ex04_calculo_media.py) - Desafio prático trabalhando com decimais (`float`).
+    - [x] [ex04_verificador_maioridade.py](./02_tipos_primitivos/ex04_verificador_maioridade.py) - Desafio prático aplicando valores lógicos (`bool`).
 
-    - [ex05_verificador_maioridade.py](./02_tipos_primitivos/ex05_verificador_maioridade.py) - Desafio prático aplicando valores lógicos (`bool`).
+     - [ ] [ex05_gerador_mascara.py](./03_operadores_aritmeticos/ex05_gerador_mascara.py) -  Desafio prático para gerar uma versão mascarada do CPF aplicando valores lógicos (`bool`).
 
+    - [ ] [ex06_tabela_formatada.py](./03_operadores_aritmeticos/ex07_tabela_formatada.py) - Desafio prático cadastro de produtos em estoque aplicando formatação de strings (`str`)  com alinhamentos à esquerda (`:<`) e a direita (`:>`).
 
-
-- [ ] Operadores Aritméticos
+- [ ] **Operadores Aritméticos**
     - **O que são?** São os blocos de dados mais básicos da linguagem (texto, números inteiros, decimais e booleanos).
 
     - **Por que usar?** Para armazenar e manipular as informações mais simples e fundamentais em qualquer programa.
@@ -63,7 +63,12 @@ O objetivo é registrar minha evolução enquanto aplico boas práticas de desen
 - [ ] Condicionais
 - [ ] Laços
 - [ ] Tipos de Dados
-- [ ] Funções
+- [ ] ***Funções***
+    - **O que são?** Blocos de código reaproveitáveis que executam uma tarefa específica quando são chamados.
+
+    - **Por que usar?** Para evitar repetição de código, modularizar o sistema e facilitar a manutenção.
+
+    - [ ] [ex01_simulador_rendimento.py](./07_funcoes/ex01_simulador_rendimento.py) - Desafio prático simular o rendimento mensal de investimentos usando laços de repetição, juros compostos e aplicação de bônus anual via condicionais.
 - [ ] POO
 - [ ] Arquivos
 - [ ] APIs
