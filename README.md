@@ -59,22 +59,32 @@ O objetivo é registrar minha evolução enquanto aplico boas práticas de desen
 
     - [ex05_verificador_maioridade.py](./03_operadores_aritmeticos/ex05_verificador_maioridade.py) - Desafio prático aplicando valores lógicos (`bool`).
 
+- [ ] **Condicionais**
 
-- [ ] Condicionais
-- [ ] Laços
-- [ ] Tipos de Dados
-- [ ] ***Funções***
+- [ ] **Laços**
+
+- [ ] **Funções**
     - **O que são?** Blocos de código reaproveitáveis que executam uma tarefa específica quando são chamados.
 
     - **Por que usar?** Para evitar repetição de código, modularizar o sistema e facilitar a manutenção.
 
-    - [ ] [ex01_simulador_rendimento.py](./funcoes/ex01_simulador_rendimento.py) - Desafio prático simular o rendimento mensal de investimentos usando laços de repetição, juros compostos e aplicação de bônus anual via condicionais.
-- [ ] POO
-- [ ] Arquivos
-- [ ] APIs
-- [ ] Testes
-- [ ] Bancos de Dados
-- [ ] Projetos Práticos
+    - [ ] [ex01_simulador_rendimento.py](./funcoes/ex01_simulador_rendimento.py) - Desafio prático aplicando criação de funções (`def`)  e laços de repetição (`while`) para mostrar a simulação de um redimento. 
+
+- [ ] **Tipos de Dados (Complexos/Compostos)**
+
+- [ ] **POO (Programação Orientada a Objetos)**
+
+- [ ] **Tratamento de Exceções**
+
+- [ ] **Tratamento de Arquivos**
+
+- [ ] **APIs**
+
+- [ ] **Testes Automatizados**
+
+- [ ] **Bancos de Dados**
+
+- [ ] **Projetos Práticos**
 
 
 
