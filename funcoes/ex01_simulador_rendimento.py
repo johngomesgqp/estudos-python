@@ -27,7 +27,7 @@ def simular_investimento(aporte_mensal: float, taxa_juros_mensal: float, meses: 
     Returns:
        Saldo final acumulado ao término do período.
     """    
-    saldo_total: float = 0
+    saldo_total: float = 0.0
     mes_atual: int = 1  # Contador inicia a contagem de meses no mês 1
     
     # O While vai funcionar enquanto o mes_atual for menor ou igual ao total de meses pedido
