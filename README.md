@@ -38,9 +38,11 @@ O objetivo é registrar minha evolução enquanto aplico boas práticas de desen
 
     - [x] [ex04_verificador_maioridade.py](./02_tipos_primitivos/ex04_verificador_maioridade.py) - Desafio prático aplicando valores lógicos (`bool`).
 
-     - [ ] [ex05_gerador_mascara.py](./03_operadores_aritmeticos/ex05_gerador_mascara.py) -  Desafio prático para gerar uma versão mascarada do CPF aplicando valores lógicos (`bool`).
+    - [x] [ex05_verificador_maioridade_ano.py](./02_tipos_primitivos/ex05_verificador_maioridade_ano.py) - Desafio prático aplicando valores lógicos (`bool`).
 
-    - [ ] [ex06_tabela_formatada.py](./03_operadores_aritmeticos/ex07_tabela_formatada.py) - Desafio prático cadastro de produtos em estoque aplicando formatação de strings (`str`)  com alinhamentos à esquerda (`:<`) e a direita (`:>`).
+     - [ ] [ex06_gerador_mascara.py](./03_operadores_aritmeticos/ex05_gerador_mascara.py) -  Desafio prático para gerar uma versão mascarada do CPF aplicando valores lógicos (`bool`).
+
+    - [ ] [ex07_tabela_formatada.py](./03_operadores_aritmeticos/ex07_tabela_formatada.py) - Desafio prático cadastro de produtos em estoque aplicando formatação de strings (`str`)  com alinhamentos à esquerda (`:<`) e a direita (`:>`).
 
 - [ ] **Operadores Aritméticos**
     - **O que são?** São os blocos de dados mais básicos da linguagem (texto, números inteiros, decimais e booleanos).
