@@ -59,7 +59,7 @@ O objetivo é registrar minha evolução enquanto aplico boas práticas de desen
 
     - [x]  [ex04_calculo_media.py](./03_operadores_aritmeticos/ex04_calculo_media.py) - Desafio prático trabalhando com decimais (`float`).
 
-    - [ex05_verificador_maioridade.py](./03_operadores_aritmeticos/ex05_verificador_maioridade.py) - Desafio prático aplicando valores lógicos (`bool`).
+    - [x]  [ex05_verificador_maioridade.py](./03_operadores_aritmeticos/ex05_verificador_maioridade.py) - Desafio prático aplicando valores lógicos (`bool`).
 
 - [ ] **Condicionais**
 
@@ -70,13 +70,13 @@ O objetivo é registrar minha evolução enquanto aplico boas práticas de desen
 
     - **Por que usar?** Para evitar repetição de código, modularizar o sistema e facilitar a manutenção.
 
-    - [ ] [ex01_simulador_rendimento.py](./funcoes/ex01_simulador_rendimento.py) - Desafio prático aplicando criação de funções (`def`)  e laços de repetição (`while`) para mostrar a simulação de um redimento. 
+    - [ ] [ex01_simulador_rendimento.py](./06_funcoes/ex01_simulador_rendimento.py) - Desafio prático aplicando criação de funções (`def`)  e laços de repetição (`while`) para mostrar a simulação de um redimento. 
 
 - [ ] **Tipos de Dados (Complexos/Compostos)**
 
-- [ ] **POO (Programação Orientada a Objetos)**
-
 - [ ] **Tratamento de Exceções**
+
+- [ ] **POO (Programação Orientada a Objetos)**
 
 - [ ] **Tratamento de Arquivos**
 
