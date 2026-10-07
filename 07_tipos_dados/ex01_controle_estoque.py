@@ -12,7 +12,6 @@ Conceitos praticados:
     - Utilização de funções (def com parâmetros e retornos)
 """
 
-
 # Criação de função que recebe a lista do estoque com o nome do produto, a
 # quantidade e o status (cujo padrão deve ser True).
 
@@ -72,7 +71,10 @@ adicionar_item (estoque, nome= 'Tinta', qtd= '0', ativo=True)
 
 # Pega as informações passada para função e filtra 
 # e pegando os itens que precisam de reposição
-relatorio_pendentes = obter_itens_pendentes(estoque)
+relatorio_pendentes: list = obter_itens_pendentes(estoque)
 
-print()
+print('   Relatório de Itens Pedentes   ')
+print('-' * 30)
+print(f'Resultado final: \n{relatorio_pendentes}')
+print('-' * 30)
 

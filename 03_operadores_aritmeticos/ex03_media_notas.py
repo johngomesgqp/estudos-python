@@ -23,4 +23,4 @@ nota_02: float = float(input('Digite sua segunda nota: '))
 media: float = (nota_01 + nota_02) / 2
 
 # Exibição dos resultados formatados (usando .format())
-print('As sua média entres as notas {} e {} vale: {:.1f}'.format(nota_01, nota_02, media))
+print('A sua média entres as notas {} e {} vale: {:.1f}'.format(nota_01, nota_02, media))

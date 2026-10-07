@@ -1,0 +1,17 @@
+# Conversor de Notas: Crie uma função que receba uma nota de 0 a 100. 
+#Retorne "A" (>90), "B" (>80), "C" (>70), "D" (>60) ou "F" (<60).
+
+def conversor_nota (nota: int)-> str:
+    if nota > 90:
+        return 'A'
+    elif nota > 80:
+        return 'B'
+    elif nota > 70:
+        return 'C'
+    elif nota > 60:
+        return 'D'
+    else:
+        nota < 60
+        return 'F' 
+
+print(conversor_nota(59))

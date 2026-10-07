@@ -24,7 +24,7 @@ O objetivo é registrar minha evolução enquanto aplico boas práticas de desen
 
     - [x] [ex02_corretor_codigo.py](./01_variaveis/ex02_corretor_codigo.py) - Desafio prático para corrigir códigos que quebram a PEP 8.
 
-- [ ] **Tipos primitivos**
+- [x] **Tipos primitivos**
     
     - **O que são?** São os blocos de dados mais básicos da linguagem (texto, números inteiros, decimais e booleanos).
     - **Por que usar?** Para armazenar e manipular as informações mais simples e fundamentais em qualquer programa.
@@ -40,9 +40,9 @@ O objetivo é registrar minha evolução enquanto aplico boas práticas de desen
 
     - [x] [ex05_verificador_maioridade_ano.py](./02_tipos_primitivos/ex05_verificador_maioridade_ano.py) - Desafio prático aplicando valores lógicos (`bool`).
 
-     - [ ] [ex06_gerador_mascara.py](./03_operadores_aritmeticos/ex05_gerador_mascara.py) -  Desafio prático para gerar uma versão mascarada do CPF aplicando valores lógicos (`bool`).
+     - [ ] [ex06_gerador_mascara.py](./02_tipos_primitivos/ex06_gerador_mascara.py) -  Desafio prático para gerar uma versão mascarada do CPF aplicando valores lógicos (`bool`).
 
-    - [ ] [ex07_tabela_formatada.py](./03_operadores_aritmeticos/ex07_tabela_formatada.py) - Desafio prático cadastro de produtos em estoque aplicando formatação de strings (`str`)  com alinhamentos à esquerda (`:<`) e a direita (`:>`).
+    - [ ] [ex07_tabela_formatada.py](./02_tipos_primitivos/ex07_tabela_formatada.py) - Desafio prático cadastro de produtos em estoque aplicando formatação de strings (`str`)  com alinhamentos à esquerda (`:<`) e a direita (`:>`).
 
 - [ ] **Operadores Aritméticos**
     - **O que são?** São os blocos de dados mais básicos da linguagem (texto, números inteiros, decimais e booleanos).
@@ -57,9 +57,7 @@ O objetivo é registrar minha evolução enquanto aplico boas práticas de desen
 
     - [x] [ex03_media_notas.py](./03_operadores_aritmeticos/ex03_media_notas.py) - Desafio prático para mostar a média de notas de aluno aplicando Adição (`+`), Divisão (`/`).
 
-    - [x]  [ex04_calculo_media.py](./03_operadores_aritmeticos/ex04_calculo_media.py) - Desafio prático trabalhando com decimais (`float`).
-
-    - [x]  [ex05_verificador_maioridade.py](./03_operadores_aritmeticos/ex05_verificador_maioridade.py) - Desafio prático aplicando valores lógicos (`bool`).
+    - [ ]  [ex04_calculo_media.py](./03_operadores_aritmeticos/ex04_calculo_media.py) - Desafio prático trabalhando com decimais (`float`).
 
 - [ ] **Condicionais**
 
@@ -75,6 +73,12 @@ O objetivo é registrar minha evolução enquanto aplico boas práticas de desen
 - [ ] **Tipos de Dados (Complexos/Compostos)**
 
 - [ ] **Tratamento de Exceções**
+    - **O que são?** Ferramentas para capturar erros previsíveis (`try/except`) e testar se as funções funcionam como deveriam.
+
+    - **Por que usar?** Para evitar que o programa trave na cara do usuário final quando algo der errado.
+
+    - [x] [ex01_saque_bancario.py](./08_tratamento_excecoes/ex01_saque_bancario.py) - Desafio prática estrita de criação de funções, lançamento de exceções com `raise ValueError`, tratamento de erros em blocos `try/except` e finalização com `finally`.
+
 
 - [ ] **POO (Programação Orientada a Objetos)**
 

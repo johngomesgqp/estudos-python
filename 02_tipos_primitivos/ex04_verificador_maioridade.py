@@ -29,7 +29,7 @@ menor_idade: bool = idade < 18 # se for falso a variável passa a ter o valor 0 
 
 # Verifica se as variáveis de verificação estão com os valores de 0 ou 1 e multiplica pela mensagem 
 # Se a mensagem for multiplicada por 1 ela soma com a outra mensagem que vai ser multiplcada por 0
-# e vai vai restar uma mensagem vazia pois todo número multilcado por 0 é 0 
+# e vai restar uma mensagem vazia pois todo número multilcado por 0 é 0.
 
 # Multiplica o texto pelo valor numérico do booleano (1 ou 0)
 # O texto multiplicado por 1 se mantém e o multiplicado por 0 vira uma string vazia
